@@ -1,2 +1,4 @@
 spark_template/data/data_raw.json
+flink_template/data/flink_commits.json
+flink_template/data/flink_commits_geo.json
 **/.idea/
